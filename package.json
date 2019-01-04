@@ -1,0 +1,37 @@
+{
+  "name": "boilerplate-passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "node server.js -r"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mysql2": "^1.6.4",
+    "next": "^7.0.2",
+    "node-sass": "^4.11.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "reactstrap": "^6.5.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "sequelize": "^4.42.0",
+    "validator": "^10.10.0"
+  }
+}

@@ -1,0 +1,17 @@
+
+.title {
+  color: #333;
+  text-shadow: 4px 4px 8px #aaa;
+
+  font-size: 2rem;
+}
+
+.passport_title {
+  color: #333;
+  text-decoration: none;
+
+  &:hover {
+    color: #333;
+    text-decoration: none;
+  }
+}
